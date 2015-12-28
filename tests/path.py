@@ -5,7 +5,7 @@
     ~~~~
 
     :copyright: Copyright 2007-2015 by the Sphinx team, see AUTHORS.
-    :license: BSD, see LICENSE for details.
+    :license: BSD, see LICENSE for details
 """
 import os
 import sys
